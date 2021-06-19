@@ -10,4 +10,4 @@ Watch tutorial on Youtube
 1. Open index.html in your browser. 
 
 ## Additional Updates 
-This update has been made to study how to make pr.
+This update has been made to study how to make pr. 
